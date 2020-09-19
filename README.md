@@ -16,7 +16,7 @@ A graduate Web Developer, Coder offering enthusiasm and understanding of various
   <img align="left" alt="Naman's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=aagarwal1012.aagarwal1012)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=guptanamannn.guptanamannn)
 [![GitHub followers](https://img.shields.io/github/followers/aagarwal1012.svg?style=social&label=Follow)](https://github.com/aagarwal1012?tab=followers)
 
 #### Talking about Personal Stuffs!
