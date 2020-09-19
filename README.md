@@ -17,7 +17,7 @@ A graduate Web Developer, Coder offering enthusiasm and understanding of various
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=guptanamannn.guptanamannn)
-[![GitHub followers](https://img.shields.io/github/followers/aagarwal1012.svg?style=social&label=Follow)](https://github.com/aagarwal1012?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/guptanamannn.svg?style=social&label=Follow)](https://github.com/guptanamannn?tab=followers)
 
 #### Talking about Personal Stuffs!
 
