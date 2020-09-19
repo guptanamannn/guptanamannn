@@ -23,17 +23,17 @@ A graduate Web Developer, Coder offering enthusiasm and understanding of various
 
 <img src='https://avatars2.githubusercontent.com/u/39711969?s=400&u=10003c97fa7c0f8b4ae78bc9c0d10fc77757d2c4&v=4' align='right'>
 #### TECHNICAL SKILLS
-- Basic HTML5, CSS3, JavaScript, Bootstrap, Wordpress
-- Arduino Language, Shell Programming, Scripting
-- Android App Development with Android Studio
-- Desktop App Development Using Python
-- Web app development with Php
-- Linux, Mac OS, Windows
-- Basic C, C++, JAVA
-- HDD/SSD REPARING
-- DATA RECOVERY
-- MS Office
-- R-DBMS
+- Basic HTML5, CSS3, JavaScript, Bootstrap, Wordpress.
+- Arduino Language, Shell Programming, Scripting.
+- Android App Development with Android Studio.
+- Desktop App Development Using Python.
+- Web app development with Php.
+- Linux, Mac OS, Windows.
+- Basic C, C++, JAVA.
+- HDD/SSD REPARING.
+- DATA RECOVERY.
+- MS Office.
+- R-DBMS.
 
 </br>
 
