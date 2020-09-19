@@ -1,20 +1,19 @@
 ### HEY 👋, WELCOME TO MY WORLD..😃!
 ### 🆃🅷🅸🆂 🅸🆂 🅽🅰🅼🅰🅽 🅶🆄🅿🆃🅰
 
-A Newly graduate Web Developer, Coder offering enthusiasm and understanding of various programming languages. Looking to join an organization where the opportunity for growth and personal development is embraced.
-Want to work for anorganization which provides me the opportunity to enhance my skill and knowledge to grow along with the organization....
+A graduate Web Developer, Coder offering enthusiasm and understanding of various programming languages. Looking to join an organization where the opportunity for growth and personal development is embraced.
 
-<a href="https://twitter.com/aagarwal1012">
-  <img align="left" alt="Ayush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/guptanamannn">
+  <img align="left" alt="Naman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/aagarwal1012/">
-  <img align="left" alt="Ayush's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/guptanamannn/">
+  <img align="left" alt="Naman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@aagarwal1012">
-  <img align="left" alt="Ayush's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://instagram.com/guptanamannn">
+  <img align="left" alt="Naman's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCQsnIvnC7zeOhSImDOJmESA">
-  <img align="left" alt="Ayush's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.facebook.com/guptanamannn">
+  <img align="left" alt="Naman's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aagarwal1012.aagarwal1012)
