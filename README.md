@@ -22,14 +22,18 @@ A graduate Web Developer, Coder offering enthusiasm and understanding of various
 #### Talking about Personal Stuffs!
 
 <img src='https://avatars2.githubusercontent.com/u/39711969?s=400&u=10003c97fa7c0f8b4ae78bc9c0d10fc77757d2c4&v=4' align='right'>
-
-- 🔭 I’m currently working on a few flutter projects.
-- 👯 I’m looking to collaborate on my flutter packages -- [Animated Text Kit](https://github.com/aagarwal1012/Animated-Text-Kit), [Liquid Pull to Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) and [IntroViews Flutter](https://github.com/aagarwal1012/IntroViews-Flutter) 🤘
-- 🤔 I’m looking for help with anything in which you have expertise.
-- 💬 Ask me about anything, but I may be slow to respond.
-- 📫 How to reach me: aagarwal9782@gmail.com
-- 😄 Pronouns: he/his/him
-- ⚡ Fun fact: Carrots🥕🥕 just might turn you orange.
+#### TECHNICAL SKILLS
+- Basic HTML5, CSS3, JavaScript, Bootstrap, Wordpress
+- Arduino Language, Shell Programming, Scripting
+- Android App Development with Android Studio
+- Desktop App Development Using Python
+- Web app development with Php
+- Linux, Mac OS, Windows
+- Basic C, C++, JAVA
+- HDD/SSD REPARING
+- DATA RECOVERY
+- MS Office
+- R-DBMS
 
 </br>
 
