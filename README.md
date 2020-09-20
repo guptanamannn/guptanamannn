@@ -102,3 +102,7 @@ Find My Recent Work<a href="http://www.ngstudies.tk/#/2"><b> here </b></a>or on 
 
 
 ![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptanamannn&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<img src='https://scontent.fknu1-1.fna.fbcdn.net/v/t1.0-9/116992872_2784685735078891_6847896363243979890_n.jpg?_nc_cat=102&_nc_sid=110474&_nc_ohc=K4FQQvRqN0AAX90Y_An&_nc_ht=scontent.fknu1-1.fna&oh=66c8afce18bcf96265f7fcf8a1d590ee&oe=5F8A6E36' align='center'>
+
+
