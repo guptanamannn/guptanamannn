@@ -62,7 +62,7 @@ A graduate Web Developer, Coder offering enthusiasm and understanding of various
 #lockdowndiaries #silverlining #achievement
 <div align="center">
 <a href="https://github.com/guptanamannn">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptanamannn&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515count_private=true&show_icons=true&title_colour=1688f0&bg_color=000&text_color=eee&icon_color=1688f0" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=guptanamannn&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515count_private=true&icon_color=1688f0" /></a>
 
 <img src='https://scontent.fknu1-1.fna.fbcdn.net/v/t1.0-9/116992872_2784685735078891_6847896363243979890_n.jpg?_nc_cat=102&_nc_sid=110474&_nc_ohc=K4FQQvRqN0AAX90Y_An&_nc_ht=scontent.fknu1-1.fna&oh=66c8afce18bcf96265f7fcf8a1d590ee&oe=5F8A6E36' align='center'>
 
