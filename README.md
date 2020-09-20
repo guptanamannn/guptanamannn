@@ -60,7 +60,7 @@ A graduate Web Developer, Coder offering enthusiasm and understanding of various
 - Will be Joining WIPRO Technologies soon, and resuming the busy life again.
 
 #lockdowndiaries #silverlining #achievement
-
+<div align="center">
 <a href="https://github.com/guptanamannn">
   <img src="https://github-readme-stats.vercel.app/api?username=guptanamannn&count_private=true&show_icons=true&title_colour=1688f0&bg_color=000&text_color=eee&icon_color=1688f0" /></a>
 
@@ -69,5 +69,4 @@ A graduate Web Developer, Coder offering enthusiasm and understanding of various
 <img src='https://scontent.fknu1-1.fna.fbcdn.net/v/t1.0-9/s960x960/118075664_10218026571317049_4355257119765899452_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=6H17gUtCWCsAX-Hf8NV&_nc_ht=scontent.fknu1-1.fna&tp=7&oh=446dac8106b2f2789799f76a37403bb3&oe=5F8AE0E7' align='center'>
 
 <img src='https://scontent.fknu1-1.fna.fbcdn.net/v/t1.0-9/117801901_10217985239923790_4923655931773609556_n.jpg?_nc_cat=100&_nc_sid=8024bb&_nc_ohc=l1Ue3dXT-VgAX-qXUqT&_nc_ht=scontent.fknu1-1.fna&oh=ae31bdea4744f9892d82aecaf3223589&oe=5F8CC9C3' align='center'>
-
-
+</div>
