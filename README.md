@@ -123,4 +123,6 @@ Find My Recent Work<a href="http://www.ngstudies.tk/#/2"><b> here </b></a>or on 
 
 <img src='https://scontent.fknu1-1.fna.fbcdn.net/v/t1.0-9/116992872_2784685735078891_6847896363243979890_n.jpg?_nc_cat=102&_nc_sid=110474&_nc_ohc=K4FQQvRqN0AAX90Y_An&_nc_ht=scontent.fknu1-1.fna&oh=66c8afce18bcf96265f7fcf8a1d590ee&oe=5F8A6E36' align='center'>
 
+<img src='https://scontent.fknu1-1.fna.fbcdn.net/v/t1.0-9/s960x960/118075664_10218026571317049_4355257119765899452_o.jpg?_nc_cat=104&_nc_sid=8024bb&_nc_ohc=6H17gUtCWCsAX-Hf8NV&_nc_ht=scontent.fknu1-1.fna&tp=7&oh=446dac8106b2f2789799f76a37403bb3&oe=5F8AE0E7' align='center'>
+
 
