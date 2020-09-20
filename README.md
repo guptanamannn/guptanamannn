@@ -94,10 +94,10 @@ A graduate Web Developer, Coder offering enthusiasm and understanding of various
 
 #### MY WORK:
 
-Find My Work<a href="http://www.ngstudies.tk/#/2"><b> here.</b></a>
+Find My Recent Work<a href="http://www.ngstudies.tk/#/2"><b> here </b></a>or on <a href="http://www.github.com/guptanamannn"><b> github.</b></a>
 
 
 
 </br>
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptanamannn&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptanamannn&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
