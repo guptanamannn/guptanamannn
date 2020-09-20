@@ -19,9 +19,11 @@ A graduate Web Developer, Coder offering enthusiasm and understanding of various
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=guptanamannn.guptanamannn)
 [![GitHub followers](https://img.shields.io/github/followers/guptanamannn.svg?style=social&label=Follow)](https://github.com/guptanamannn?tab=followers)
 
+<img src='https://scontent.fknu1-1.fna.fbcdn.net/v/t1.0-9/s960x960/103649327_2738394549708010_1230101738646439482_o.jpg?_nc_cat=101&_nc_sid=05277f&_nc_ohc=kgxjKQbbhVAAX9it7L-&_nc_ht=scontent.fknu1-1.fna&tp=7&oh=1c359de3776a1734021e20d4d17f309b&oe=5F8B8D33' align='center'>
+
 #### Talking about Personal Stuffs!
 
-<img src='https://scontent.fknu1-1.fna.fbcdn.net/v/t1.0-9/s960x960/103649327_2738394549708010_1230101738646439482_o.jpg?_nc_cat=101&_nc_sid=05277f&_nc_ohc=kgxjKQbbhVAAX9it7L-&_nc_ht=scontent.fknu1-1.fna&tp=7&oh=1c359de3776a1734021e20d4d17f309b&oe=5F8B8D33' align='right'>
+
 
 
 #### TECHNICAL SKILLS:
