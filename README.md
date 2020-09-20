@@ -99,7 +99,25 @@ A graduate Web Developer, Coder offering enthusiasm and understanding of various
 
 Find My Recent Work<a href="http://www.ngstudies.tk/#/2"><b> here </b></a>or on <a href="http://www.github.com/guptanamannn"><b> github.</b></a>
 
+#### Things I achieved during this Lockdown:
 
+- Enjoyed quality time with my family.
+- Bagged 4 Job offers.
+- Completed more than 10 freelanced projects.
+- One among Winners in Online Hackathon Smart India Hackethon 2020 by building Software Solution for Airport Authority Of India Organised by MHRD India.
+- Developed 2 applications One for the Covid19 awareness and more named COVID19in and another for Chinese apps removal named Dragon Uninstaller.
+- Graduated from college with awesome cpl and lot of memories to cherish.
+- Completed two Research papers and one project for Innovation Contest.
+- Started working on two latest technologies Flutter & Azure.
+- Watched arround 50+ movies, 4 web series & relished stretches of sound sleep.
+- Helped some of my friends for doubts solving.
+- Taken part as a teacher in arround of 6 workshops on various topics like Android, Python, Php, Web development.
+- Worked as trainer in AICRA: All India Counsil For Robotics Association
+- Attended more than 10 webinars.
+- Realised the joy of minimalism & started appreciating & looking at silver linings.
+- Will be Joining WIPRO Technologies soon, and resuming the busy life again.
+
+#lockdowndiaries #silverlining #achievement
 
 ![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptanamannn&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
