@@ -73,6 +73,29 @@ A graduate Web Developer, Coder offering enthusiasm and understanding of various
 - Selected finalists of SIH-2019 Hardware Edition organized by MHRD & IIC.
 - Winner in National Level Science exhibition organized by Vidya Bharti Awadh Prant.
 
+#### CERTIFICATIONS:
+
+- WNET Certification by WheeBox.
+- Courese Completion Certificate of Android.
+- Certification for Collections Specialist from AMCAT.
+- Certification for Telesales Professional from AMCAT.
+- Certification for Corporate Sales Manager from AMCAT.
+- Certification for Data Processing Specialist from AMCAT.
+- Certification for Channel Sales Professional from AMCAT.
+- Certification for Customer Service Specialist from AMCAT.
+- Courese Completion Certificate Introduction to Data Studio
+- Courese Completion Certificate Advanced Google Analytics
+- Courese Completion Certificate Google Analytics for Beginners.
+- Courese Completion Certificate Google Tag Manager Fundamentals
+- Courese Completion Certificate Google Analytics for Power Users
+- Courese Completion Certificate Getting Started With Google Analytics 360
+- Courese Completion Certificate AWS Cloud Practitioner Essentials 2nd Edition
+
+
+#### MY WORK:
+
+Find My Work<a href="http://www.ngstudies.tk/#/2"><b> here.</b></a>
+
 
 
 </br>
