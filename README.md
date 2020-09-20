@@ -59,7 +59,19 @@ A graduate Web Developer, Coder offering enthusiasm and understanding of various
 - Spyder
 - MySql
 
+#### ACHIEVEMENTS:
 
+- Runner-Up Technovation Hackathon2.
+- Starternity Hacks 1.0 shortlisted finalist.
+- Published research paper in SMART Conference 2018.
+- Published research paper in ICAC Conference 2018.
+- Published research paper in SMART Conference 2019.
+- Published research paper in ICAC Conference 2019.
+- Published research paper in National Conference 2.0.
+- Published research paper in Russian Journal.
+- Participated in National Level Science exhibition organized by Vidya Bharti Awadh Prant.
+- Selected finalists of SIH-2019 Hardware Edition organized by MHRD & IIC.
+- Winner of SIH-2020 Software Edition organized by MHRD & IIC.
 
 </br>
 
